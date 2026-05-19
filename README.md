@@ -51,7 +51,7 @@ The scheduling process is based on the **DSATUR graph coloring algorithm**, comm
 ├── Salles.csv
 └── README.md
 └── Rapport final.pdf
-
+```
 ---
 
 ## Authors
