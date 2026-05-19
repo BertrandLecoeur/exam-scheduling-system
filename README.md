@@ -52,3 +52,9 @@ The scheduling process is based on the **DSATUR graph coloring algorithm**, comm
 └── README.md
 └── Rapport final.pdf
 
+---
+
+## Authors
+
+Bertrand Lecoeur - CY Tech Engineering School  
+Exam Scheduling System Project
